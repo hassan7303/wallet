@@ -1,11 +1,6 @@
-@font-face {
-  font-family: vazir;
-  src: url(font/Vazir.ttf);
-}
-
 body {
   margin: 0;
-  font-family: vazir;
+  font-family: sans-serif;
 }
 .wrapper {
   max-width: 960px;
