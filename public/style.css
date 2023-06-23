@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: vazir;
 }
 .wrapper {
   max-width: 960px;
@@ -29,7 +29,7 @@ li p {
   color: #333;
   margin: 8px 0 0;
 }
-header {
+footer {
   background: #eee;
   padding: 60px;
   margin-top: 60px;
@@ -63,4 +63,11 @@ button {
   padding: 6px;
   min-width: 80px;
   border-radius: 4px;
+}
+footer a {
+  text-align: center;
+  display: block;
+  color: #999;
+  margin-top: 40px;
+  font-size: 0.7em;
 }
